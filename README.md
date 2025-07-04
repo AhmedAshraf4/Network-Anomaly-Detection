@@ -45,8 +45,8 @@ This project applies unsupervised clustering techniques to detect anomalies in n
 
 - Agglomerative Clustering
   -  Hierarchical bottom-up clustering:
-    1. Start with each point as a separate cluster
-    2. Merge closest clusters iteratively  
+      1. Start with each point as a separate cluster
+      2. Merge closest clusters iteratively  
   -  Drawback: Computational complexity is O(n² log n)
 
 ---
